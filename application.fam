@@ -1,0 +1,7 @@
+App(
+    appid="flipper_20q",
+    name="Flipper 20Q",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="flipper_20q_app",
+    stack_size=4096,
+)
